@@ -26,5 +26,9 @@ www.berkekurnaz.com<br />
 bkoyunberkekurnaz@hotmail.com<br />
 
 ## Uygulamadan Resimler
-![Resim1](https://github.com/berkekurnaz/Flask_Framework_Ornekler/blob/master/1_Flask_Ile_Ilk_Kisisel_Site/siteden_resimler/f1.png)
+![Resim1](https://github.com/berkekurnaz/Gun_Gun_Gunluk_Uygulamasi/blob/master/S%C3%BCr%C3%BCm_1_0/uygulamadan_resimler/g1.png)
+![Resim2](https://github.com/berkekurnaz/Gun_Gun_Gunluk_Uygulamasi/blob/master/S%C3%BCr%C3%BCm_1_0/uygulamadan_resimler/g2.png)
+![Resim3](https://github.com/berkekurnaz/Gun_Gun_Gunluk_Uygulamasi/blob/master/S%C3%BCr%C3%BCm_1_0/uygulamadan_resimler/g3.png)
+![Resim4](https://github.com/berkekurnaz/Gun_Gun_Gunluk_Uygulamasi/blob/master/S%C3%BCr%C3%BCm_1_0/uygulamadan_resimler/g4.png)
+![Resim5](https://github.com/berkekurnaz/Gun_Gun_Gunluk_Uygulamasi/blob/master/S%C3%BCr%C3%BCm_1_0/uygulamadan_resimler/g5.png)
 
